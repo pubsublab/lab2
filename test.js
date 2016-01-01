@@ -11,3 +11,11 @@ function a(b){
 function ab(b){
 	return c;
 }
+
+
+/*
+ * @slack this is shaharxcut third test #reuse
+ */
+function abc(b){
+	return c;
+}
