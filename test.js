@@ -19,3 +19,11 @@ function ab(b){
 function abc(b){
 	return c;
 }
+
+
+/*
+ * @slack this is shaharxcut fourth test #reuse
+ */
+function abcd(b){
+	return c;
+}
